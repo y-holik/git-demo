@@ -6,3 +6,6 @@ stcond branch
 another commit
 
 conflict resol
+
+feature changes
+
